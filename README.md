@@ -1,6 +1,6 @@
 # Basic Face Recognition in Videos Using OpenCV
 
-##### A CLI program which can be used to find a specific person in a video footage
+#### A CLI program which can be used to find a specific person in a video footage
 
 Archived project from 2016 HARVARD CS50
  
@@ -12,6 +12,7 @@ Archived project from 2016 HARVARD CS50
 <br>
 <b>A.</b>&nbsp;To recognize? Liv Tyler (Arwen) in LOTR<br>
 <b>B.</b>&nbsp;To recognize? Obama during a speech<br>
+<br>
 <sup><b>source:&nbsp;&nbsp;</b>movieclips by rotten tomatoes - youtube.com, whitehouse.gov</sup>
 </p>
 
@@ -33,8 +34,7 @@ Face recognition, on the other hand, is not as common. Not too long ago, after d
 There is an exciting potential for face recognition in the emerging field of social robotics. Household robots like Jibo can recognize members of the family. Through machine learning, Jibo can get better at recognizing people the more it sees them. It can watch out for intruders and look after your kids. Overtime, it can learn unique things about individual family members it interacts with. The possibilities are endless. 
 
 <p align="left">
-<img src="figures/jib+recog-img.png" alt="" width="90%">
-<br>
+<img src="figures/jibrecog-img.png" alt="" width="90%">
 <br>
 <sup><b>source:&nbsp;&nbsp;</b>hackaday.com, technabob.com</sup>
 </p>
@@ -74,7 +74,6 @@ Eigenfaces and Fisherfaces treat images as vectors and perform a Principal Compo
 
 <p align="left">
 <img src="figures/image-to-lbp.png" alt="" width="65%">
-<br>
 <br>
 <sup><b>source:&nbsp;&nbsp;</b>pyimagesearch.com</sup>
 </p>
@@ -145,7 +144,6 @@ Other users can refer to [OpenCV's official installation](https://opencv.org/get
 #### Step 2: Understand the project structure
 
 This is what the existing project directory tree looks like:
-
 .<br>
 | -- figures<br>
 | -- recognizer<br>
