@@ -1,6 +1,6 @@
 # Basic Face Recognition in Videos Using OpenCV
 
-#### A CLI program which can be used to find a specific person in a video footage
+### A CLI program which can be used to find a specific person in a video footage
 
 Archived project from 2016 HARVARD CS50
  
@@ -21,7 +21,7 @@ Archived project from 2016 HARVARD CS50
 📋 📐🔨 *some time in the future:*
 - Modify this program to output all the timpstamps where the target person was found in the vidoe footage
 - Another project that demonstrates more sophisticated face recognition techniques
-- Another project that demonstrates how face recognition algorithms can be thwarted (to preserve anonymity
+- Another project that demonstrates how face recognition algorithms can be thwarted (to preserve anonymity)
 
 
 ## Objective 
@@ -144,6 +144,7 @@ Other users can refer to [OpenCV's official installation](https://opencv.org/get
 #### Step 2: Understand the project structure
 
 This is what the existing project directory tree looks like:
+
 .<br>
 | -- figures<br>
 | -- recognizer<br>
